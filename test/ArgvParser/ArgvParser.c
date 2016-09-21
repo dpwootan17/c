@@ -1,4 +1,7 @@
 
+// David Wootan
+// 09-21-16
+
 #include <stdio.h>
 #include <stdlib.h>
 
